@@ -341,13 +341,12 @@
             :style="{ backgroundColor: `${colors.mainBg.color}` }"
             class="textColor"
           >
-            Created with
             <a
               class="textColor"
-              href="https://enbizcard.vishnuraghav.com/"
+              href="https://amenitydev.com/"
               target="_blank"
               rel="noopener noreferrer"
-              >EnBizCard</a
+              >AmenityDev SA</a
             >
           </footer>
         </body>
